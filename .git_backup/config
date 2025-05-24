@@ -1,0 +1,18 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[submodule "external/aiqtoolkit-opensource-ui"]
+	active = true
+	url = https://github.com/NVIDIA/AIQToolkit-UI.git
+[lfs]
+	repositoryformatversion = 0
+	allowincompletepush = true
+[user]
+	email = taote1145@gmail.com
+[remote "origin"]
+	url = https://github.com/Leelonki/AIQToolkit.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[lfs "https://github.com/Leelonki/AIQToolkit.git/info/lfs"]
+	access = basic

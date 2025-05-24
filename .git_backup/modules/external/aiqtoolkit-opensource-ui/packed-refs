@@ -1,0 +1,11 @@
+# pack-refs with: peeled fully-peeled sorted 
+f824196cec23a61464e221555961c6ab5b90c750 refs/remotes/origin/dependabot/npm_and_yarn/babel/runtime-7.27.1
+dbd4f91922377a7ee976720190a54c80a2d9639a refs/remotes/origin/dependabot/npm_and_yarn/image-size-1.2.1
+09ee9e3fb6b38051a2797ed9c60c26c8dc640ae9 refs/remotes/origin/dependabot/npm_and_yarn/next-14.2.28
+223785b49c5902a14d37fcbd711cac430d14b796 refs/remotes/origin/dependabot/npm_and_yarn/vite-4.5.14
+eac72acc8c542b8f3c65dffa2b7c24bc856a5801 refs/remotes/origin/main
+9a0b883e3f63a323c9810e771e5e8a5000ba0cf7 refs/remotes/origin/revert-10-feature/oauth-polling-endpoint
+d277e477df9fa6a1b8b829b9b7739b2068ce5158 refs/tags/0.1.0
+7e715d17cee115b1392a0972144ea548378c83b7 refs/tags/0.1.1
+d277e477df9fa6a1b8b829b9b7739b2068ce5158 refs/tags/v0.1.0
+d277e477df9fa6a1b8b829b9b7739b2068ce5158 refs/tags/v1.0.0
